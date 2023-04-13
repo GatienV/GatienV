@@ -1,4 +1,4 @@
-<h1>Bonjour, je suis Gatien <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/gatien-verdier/">Data Analyst</a>
+<h1>Bonjour, je suis Gatien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/gatien-verdier/">Data Analyst</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
