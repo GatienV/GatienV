@@ -3,11 +3,11 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Température Terrestre</b>
-  - [Data preprocessing, Data viz, Data analysis, ML, PowerBI](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data preprocessing, Data viz, Data analysis, ML, PowerBI](https://github.com/GatienV/Temperature-Terrestre)
 - <b>Ranked LOL </b>
-  - [Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI](https://github.com/GatienV/Ranked-LOL-Analyse)
 - <b>Amazon</b>
-  - [SQLite](https://github.com/joshmadakor1/EncrypterPOC)
+  - [SQLite](https://github.com/GatienV/Amazon-SQLite)
 
 <h2>Compétences</h2>
 
