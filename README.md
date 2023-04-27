@@ -9,7 +9,7 @@
 - <b>Amazon</b>
   - [SQLite](https://github.com/GatienV/Amazon-SQLite)
 - <b>Credit Risk</b>
-  - [Data preprocessing, Data viz, Data analysis, ML](https://github.com/GatienV/Amazon-SQLite)
+  - [Data preprocessing, Data viz, Data analysis, ML](https://github.com/GatienV/Credit_Risk)
 
 <h2>Compétences</h2>
 
