@@ -37,6 +37,6 @@
 
 <h2> Follow me =) </h2>
 
-[linkedin] https://www.linkedin.com/in/gatien-verdier/
+[linkedin](https://www.linkedin.com/in/gatien-verdier/)
 
 <!--
