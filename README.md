@@ -12,6 +12,8 @@
   - [Data preprocessing, Data viz, Data analysis, ML](https://github.com/GatienV/Credit_Risk)
 - <b>Gymnases</b>
   - [SQL](https://github.com/GatienV/Gymnases)
+- <b>Gymnases-Suite</b>
+  - [SQL](https://github.com/GatienV/Gymnases-Suite-)
 
 <h2>Compétences</h2>
 
