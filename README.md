@@ -14,6 +14,8 @@
   - [SQL](https://github.com/GatienV/Gymnases)
 - <b>Gymnases-Suite</b>
   - [SQL](https://github.com/GatienV/Gymnases-Suite-)
+ - <b>E-Commerce Cosmétique</b>
+  - [Python](https://github.com/GatienV/E-commerceCosmetique)
 
 <h2>Compétences</h2>
 
