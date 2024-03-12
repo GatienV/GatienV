@@ -18,6 +18,8 @@
   - [Python](https://github.com/GatienV/E-commerceCosmetique)
 - <b>Car Insurance </b>
   - [Python](https://github.com/GatienV/Claims)
+- <b>Vente Jeux Vidéos </b>
+  - [Python](https://github.com/GatienV/VGsales)
 
 <h2>Compétences</h2>
 
